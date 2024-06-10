@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 <b>Before The Start And See The Application Lets Download The Schema Structur Application </b>
 
 ## The Schema Structur Application
-Video Aplikasi [https://drive.google.com/drive/folders/1P-Yjahz_rWwEWPDJuc6uT0Cj-rlRqJ4x?usp=drive_link](Download Now)
+Video Aplikasi [Download Now](https://drive.google.com/drive/folders/1P-Yjahz_rWwEWPDJuc6uT0Cj-rlRqJ4x?usp=drive_link)
 
 ## Getting Started
 
